@@ -1,5 +1,5 @@
 # GitHub-Practice
-# include <stdio.h>
+#include <stdio.h>
 
 int main() {
     printf("Hello, Git!\n");
